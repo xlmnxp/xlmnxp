@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <!--
 **xlmnxp/xlmnxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://github-readme-stats.vercel.app/api?username=xlmnxp&show_icons=true)](https://github.com/xlmnxp/)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlmnxp&layout=compact)](https://github.com/xlmnxp/)
